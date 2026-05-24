@@ -1,0 +1,6 @@
+{
+  "name": "Lumi AI",
+  "description": "Tu compañera de IA emocional, elegante y minimalista desarrollada por LYNOR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
